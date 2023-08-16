@@ -18,7 +18,9 @@ jobs:
     - name: Fetch and unzip
       run: |        
         rm -rf ReleasableAircraft
-        wget https://registry.faa.gov/database/ReleasableAircraft.zip
+        wget \
+          --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" \
+          https://registry.faa.gov/database/ReleasableAircraft.zip
         unzip ReleasableAircraft.zip
     - name: Commit and push
       run: |-
