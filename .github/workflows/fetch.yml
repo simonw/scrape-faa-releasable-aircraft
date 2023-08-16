@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    - name: Fetch and unzip
       run: |        
         rm -rf ReleasableAircraft
         wget https://registry.faa.gov/database/ReleasableAircraft.zip
