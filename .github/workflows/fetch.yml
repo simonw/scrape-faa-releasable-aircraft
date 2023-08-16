@@ -24,16 +24,17 @@ jobs:
         unzip ReleasableAircraft.zip
     - name: Split into smaller files that should be below 100MB GitHub limit
       run: |-
-        # get first line
-        head -n 1 MASTER.txt > MASTER-1.txt
-        head -n 1 MASTER.txt > MASTER-2.txt
-        
-        # get lines not starting with 5, 6, 7, 8, 9
-        grep -v '^[56789]' MASTER.txt >> MASTER-1.txt
-        
-        # get lines starting with 5, 6, 7, 8, 9
-        grep '^[56789]' MASTER.txt >> MASTER-2.txt
-
+        #!/bin/bash
+        # get heading line
+        head -n 1 MASTER.txt > heading.txt
+        # loop for each number from 1 to 9
+        for i in {1..9}
+        do
+           cat heading.txt > MASTER-$i.txt
+           grep "^$i" MASTER.txt >> MASTER-$i.txt
+        done
+        # remove temporary heading.txt
+        rm heading.txt
         # Remove MASTER.txt and DEREG.txt
         rm MASTER.txt DEREG.txt
     - name: Commit and push
