@@ -22,6 +22,20 @@ jobs:
           --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" \
           https://registry.faa.gov/database/ReleasableAircraft.zip
         unzip ReleasableAircraft.zip
+    - name: Split into smaller files that should be below 100MB GitHub limit
+      run: |-
+        # get first line
+        head -n 1 MASTER.txt > MASTER-1.txt
+        head -n 1 MASTER.txt > MASTER-2.txt
+        
+        # get lines not starting with 5, 6, 7, 8, 9
+        grep -v '^[56789]' MASTER.txt >> MASTER-1.txt
+        
+        # get lines starting with 5, 6, 7, 8, 9
+        grep '^[56789]' MASTER.txt >> MASTER-2.txt
+
+        # Remove MASTER.txt and DEREG.txt
+        rm MASTER.txt DEREG.txt
     - name: Commit and push
       run: |-
         git config user.name "Automated"
