@@ -35,8 +35,8 @@ jobs:
         done
         # remove temporary heading.txt
         rm heading.txt
-        # Remove MASTER.txt and DEREG.txt
-        rm MASTER.txt DEREG.txt
+        # Remove MASTER.txt and DEREG.txt and ReleasableAircraft.zip 
+        rm MASTER.txt DEREG.txt ReleasableAircraft.zip
     - name: Commit and push
       run: |-
         git config user.name "Automated"
