@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: Fetch and unzip
       run: |        
-        rm -rf ReleasableAircraft
+        rm -rf *.txt *.pdf *.zip
         wget \
           --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" \
           https://registry.faa.gov/database/ReleasableAircraft.zip
