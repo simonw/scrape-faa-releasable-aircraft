@@ -55600,6 +55600,7 @@
 05643ZL,MORGAN HENRY F                ,CH701               ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643ZM,LOUIS J DIETZ                 ,RV-14 QUICKBUILD    ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643ZN,WD AIRCRAFT INVESTMENTS LLC   ,JAVRON PA18 REPLICA ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643ZO,FRANKLIN VERNON Y             ,VELOCITY SE-FG      ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
