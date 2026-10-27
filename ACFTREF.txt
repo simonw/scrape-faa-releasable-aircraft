@@ -85231,6 +85231,7 @@
 3980121,GULFSTREAM AEROSPACE CORP     ,GVI                 ,5,5 ,1,0,02,022,CLASS 3,0000,               ,                                                  ,
 3980125,GULFSTREAM AEROSPACE CORP     ,GVII-G400           ,5,5 ,1,1,02,009,CLASS 3,0000,               ,                                                  ,
 398012A,GULFSTREAM                    ,GII                 ,5,4 ,1,0,02,021,CLASS 3,0000,               ,                                                  ,
+398012B,GULFSTREAM                    ,G280                ,5,5 ,1,0,02,021,CLASS 3,0000,A61NM          ,GULFSTREAM AEROSPACE LP (GALP)                    ,
 3980200,GULFSTREAM AEROSPACE          ,G-III               ,5,4 ,1,0,02,019,CLASS 2,0000,               ,                                                  ,
 3980201,GULFSTREAM AEROSPACE          ,G-159               ,5,2 ,1,0,02,038,CLASS 3,0000,               ,                                                  ,
 3980202,GULFSTREAM AEROSPACE          ,GULFSTREAM 200      ,5,5 ,1,0,02,021,CLASS 2,0000,               ,                                                  ,
