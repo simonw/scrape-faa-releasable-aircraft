@@ -54770,6 +54770,8 @@
 056432R,LUCAS CHRISTOPHER R           ,RV-14A              ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 056432S,LUCAS CHRISTOPHER R           ,RV-14A              ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 056432T,PAUL HORSCHEL                 ,CCX-2000            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
+056432U,VERGIL CASKEY                 ,BEARHAWK FOUR       ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+056432V,HENNING PETERSEN              ,CH75 CRUZER         ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643A0,TEN TWO ADVENTURES LLC        ,AL-18               ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643A1,ADAMS CARL R                  ,THORP T-18          ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643A2,LORRAINE MORRIS               ,N-3-2-W PUP         ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
