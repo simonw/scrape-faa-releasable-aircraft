@@ -54760,6 +54760,7 @@
 0564326,N307PW LLC                    ,BACKCOUNTRY SUPERCUB,4,1 ,1,1,01,003,CLASS 1,0000,               ,                                                  ,
 0564327,MICHAEL ZIEBA                 ,SLING TSI           ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 0564328,BRIAN HEBERER                 ,RV-7                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+0564329,ANDREY SHEDEL                 ,RV-14A              ,4,8 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 056432A,NIMROD GOOR                   ,CCX-1320            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
 056432B,ZELIFF AVIATION LLC           ,CCX-1865            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
 056432C,FLIGHT DECK CREATIVE LLC      ,CCX-1865            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
