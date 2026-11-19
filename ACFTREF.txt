@@ -54794,6 +54794,8 @@
 056433F,DOUGLAS P PFLUGRADT           ,SKYFLY              ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 056433G,SLING TSI LLC                 ,SLING 4 TSI         ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 056433H,ARTEMY IVANOV                 ,KITFOX S7 STI       ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+056433I,AARON JOHNSON                 ,GT-VX1              ,9,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
+056433J,BOBBY J HUGHES                ,RANS S21            ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643A0,TEN TWO ADVENTURES LLC        ,AL-18               ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643A1,ADAMS CARL R                  ,THORP T-18          ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643A2,LORRAINE MORRIS               ,N-3-2-W PUP         ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
